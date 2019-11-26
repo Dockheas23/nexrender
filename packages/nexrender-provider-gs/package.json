@@ -1,0 +1,13 @@
+{
+  "name": "@nexrender/provider-gs",
+  "version": "1.0.0",
+  "author": "dockheas23",
+  "main": "src/index.js",
+  "dependencies": {
+    "@google-cloud/storage": "^4.1.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "dc2d3e25d38adad5e957f14d6f86d9db207e33f4"
+}
